@@ -5,7 +5,7 @@
 
     * **{link}** Links to the new video (don't forget this one!)
     * **{author}** The youtuber's channel title
-    * **{everyone}** @everyone
+    * **{everyone}** @everyone NxtKen just uploaded another video, Go check it out because... Why not :Pog: 
 
 | Name | Example | Usage |
 | :--- | :--- | :--- |
